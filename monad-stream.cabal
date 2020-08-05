@@ -38,7 +38,7 @@ library
                   , Audio
                   , Buffer
                   , DB1
-  build-depends:    base >=4.11 && <4.12,
+  build-depends:    base >=4.11 && <4.14,
                     jack,
                     mtl,
                     async,

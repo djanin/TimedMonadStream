@@ -1,3 +1,5 @@
+{-# LANGUAGE BangPatterns #-}
+
 {-|
 Module      : DB1
 Description : Connecting one (very specific) midi device and building FARM experiment
